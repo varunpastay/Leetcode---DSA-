@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0482-license-key-formatting) |
 ## String Matching
 |  |
 | ------- |
