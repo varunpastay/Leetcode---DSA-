@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0482-license-key-formatting) |
@@ -43,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0412-fizz-buzz) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
