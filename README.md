@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0012-integer-to-roman) |
 | [0412-fizz-buzz](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0504-base-7) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0012-integer-to-roman) |
 | [0257-binary-tree-paths](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0459-repeated-substring-pattern) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0012-integer-to-roman) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
