@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0504-base-7) |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
