@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0504-base-7) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
