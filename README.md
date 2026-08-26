@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0011-container-with-most-water) |
 | [0228-summary-ranges](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0594-longest-harmonious-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
