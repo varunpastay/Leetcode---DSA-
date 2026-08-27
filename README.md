@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
