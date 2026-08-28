@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0709-to-lower-case) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
