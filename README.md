@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0594-longest-harmonious-subsequence) |
+| [0771-jewels-and-stones](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
