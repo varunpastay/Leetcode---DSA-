@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0643-maximum-average-subarray-i) |
+| [0819-most-common-word](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0819-most-common-word) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0819-most-common-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0819-most-common-word) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0819-most-common-word) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
