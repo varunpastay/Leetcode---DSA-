@@ -74,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
