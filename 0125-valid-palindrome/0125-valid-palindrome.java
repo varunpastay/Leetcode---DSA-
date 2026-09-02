@@ -8,16 +8,22 @@ class Solution {
             }
         }
         String str=sb.toString();
-        int left=0;
-        int right=str.length()-1;
-        while(left<right){
-            if(str.charAt(left)!=str.charAt(right)){
-                return false;
-            }
-            left++;
-            right--;
-
-        }
+        sb=sb.reverse();
+        String rev=sb.toString();
+    if(str.equals(rev)){
         return true;
+    }
+        // int left=0;
+        // int right=str.length()-1;
+        // while(left<right){
+        //     if(str.charAt(left)!=str.charAt(right)){
+        //         return false;
+        //     }
+        //     left++;
+        //     right--;
+
+        // }
+        // return true;
+        return false;
     }
 }
