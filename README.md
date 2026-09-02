@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0541-reverse-string-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0459-repeated-substring-pattern) |
