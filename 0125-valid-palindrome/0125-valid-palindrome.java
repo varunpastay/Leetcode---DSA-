@@ -1,34 +1,42 @@
 class Solution {
-    public String check(String s){
-        String res="";
-        for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
-            if(ch>=65 && ch <=90){
-                ch=(char)(ch+32);
+    public boolean isPalindrome(String s) {
+      int left=0;
+      int right=s.length()-1;
+      while(left<right){
+        while(left<right){
+            char ch=s.charAt(left);
+            if((ch>=97 && ch<=122)||(ch>=65 && ch<=90)||(ch>=48 && ch <=57)){
+                break;
             }
-            if((ch>=97 && ch<=122 )||(ch>=48 && ch<=57)){
-                res=res+ch;
-            }
+            left++;
         }
-        return res;
-    }
-    public boolean isPalindrome(String s) {  
-    
-    s=check(s);
-    int left=0;
-    int right=s.length()-1;
+        while(left<right){
+            char ch=s.charAt(right);
+            if((ch>=97 && ch<=122)||(ch>=65 && ch<=90)||(ch>=48 && ch <=57)){
+                break;
+            }
+            right--;
+        }
+        char ch1=s.charAt(left);
+        char ch2=s.charAt(right);
 
-    while(left<right){
-        if(s.charAt(left)!=s.charAt(right)){
+        if(ch1>=65 && ch1<=90){
+            ch1=(char)(ch1 + 32);
+        }
+        if(ch2>=65 && ch2<=90){
+            ch2=(char)(ch2+32);
+        }
+
+        if(ch1!=ch2){
             return false;
         }
         left++;
         right--;
-    }
-    return true;
+      } 
+      return true;
     }
 }
-    //2
+//2
 //     public boolean isPalindrome(String s) {  
 //     int left=0;
 //     int right=s.length()-1;
