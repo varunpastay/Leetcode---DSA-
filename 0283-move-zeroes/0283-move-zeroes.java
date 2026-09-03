@@ -7,11 +7,9 @@ class Solution {
             index++;
            }
         }
-        while(index<nums.length){
-            nums[index]=0;
-            index++;
+        for(int i=index;i<nums.length;i++){
+            nums[i]=0;
         }
-        System.out.println(Arrays.toString(nums));
     }
 }
 // class Solution {
