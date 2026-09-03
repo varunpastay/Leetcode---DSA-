@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0977-squares-of-a-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
