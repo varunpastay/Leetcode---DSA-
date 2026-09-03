@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0819-most-common-word](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0929-unique-email-addresses) |
+| [0977-squares-of-a-sorted-array](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varunpastay/Leetcode---DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0696-count-binary-substrings) |
 | [0917-reverse-only-letters](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0594-longest-harmonious-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
