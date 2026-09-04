@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0011-container-with-most-water) |
 | [0228-summary-ranges](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0283-move-zeroes) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpastay/Leetcode---DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
